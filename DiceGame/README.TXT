@@ -1,4 +1,3 @@
-"""
 Hello! This a two player dice game inspired by a board game my little sister played while I
 was visiting her over winter break. 
 
@@ -11,4 +10,3 @@ no credit or mention needed.
 
 
 ~Mars/Tehrers
-"""
